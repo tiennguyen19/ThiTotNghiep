@@ -38,6 +38,6 @@ public class BigDog extends SmallDog{
 
     @Override
     public String makeSound() {
-        return ("woof woof woof");
+        return ("woof woof woof branch tien2");
     }
 }
